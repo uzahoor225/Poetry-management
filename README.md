@@ -16,6 +16,8 @@ This Java-based Poetry Management System is designed to organize and manage a co
 - **Architecture:**
   - **Layered Architecture:** The codebase follows a layered architecture for better organization and separation of concerns.
 
+# How it work brother
+
 - **Testing:**
   - **JUnit Testing:** The project achieves full path coverage through comprehensive JUnit tests.
 
